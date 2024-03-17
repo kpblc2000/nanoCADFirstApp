@@ -19,7 +19,7 @@ namespace nanoCADFirstApp.CadCommands
 
             Editor ed = doc.Editor;
 
-            ed.WriteMessage("\nHello");
+            ed.WriteMessage("\nHello to console");
         }
     }
 }
