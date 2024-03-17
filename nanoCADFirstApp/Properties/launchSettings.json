@@ -6,7 +6,7 @@
     "nanoCAD": {
       "commandName": "Executable",
       "executablePath": "C:\\Program Files\\Nanosoft\\nanoCAD x64 23.1\\nCad.exe",
-      "commandLineArgs": "-g \"C:\\Users\\kpblc\\source\\repos\\nanoCADFirstApp\\nanoCADFirstApp\\bin\\Debug\\net6.0-windows\\nanoCADFirstApp.dll\""
+      "commandLineArgs": "-g $(TargetPath)"
     }
   }
 }
